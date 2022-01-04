@@ -1,6 +1,6 @@
 Collaborators: Qazi Ashikin, Sebastien Beurnier, Anthony Jiang
 
-AP CS A Final Project
+AP CS A Final Project (2019 – 2020)
 
 Introduction:
 We have made a version of the game 2048 using GridWorld. Players may combine tiles with the same number to create tiles with larger numbers. The goal of the game is to create a tile with the number 2048 using the specified hotkeys (see below). There is a scoreboard, much like the one in the actual game that records your current score and your highest score.
