@@ -1,4 +1,4 @@
-Names: Qazi Ashikin, Sebastian Beurnier, Anthony Jiang
+Names: Qazi Ashikin, Sebastien Beurnier, Anthony Jiang
 AP CS A Final Project
 
 Introduction:
