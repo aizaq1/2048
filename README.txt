@@ -1,4 +1,4 @@
-Names: Sebastian Beurnier, Qazi Ashikin, Anthony Jiang
+Names: Qazi Ashikin, Sebastian Beurnier, Anthony Jiang
 AP CS A Final Project
 
 Introduction:
@@ -12,6 +12,5 @@ Directions:
 A couple notes:
 1. The "out" folder contains all of the .class files (as produced by IntelliJ).
 2. Most of our code is written in the ActorWorld.java file under src/info/gridworld/Actor
-3. Line 104 in ActorWorld.java might seem unnecessary. It was written to avoid a bug in the program in which the final move of the game (right before the game prompts you to select whether or not you would like to play again) was not shown on the screen.
-4. We hope you enjoy our game - we had fun making it.
+3. We hope you enjoy our game - we had fun making it.
 
