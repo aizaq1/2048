@@ -5,7 +5,7 @@ Introduction:
 We have made a version of the game 2048 using GridWorld. Players may combine tiles with the same number to create tiles with larger numbers. The goal of the game is to create a tile with the number 2048 using the specified hotkeys (see below). There is a scoreboard, much like the one in the actual game that records your current score and your highest score.
 
 Directions:
-1. Enter the "src" file directory after extracting the .zip file. Run the Main.java file. Everything should already be compiled, so this is all that will be necessary.
+1. Run the Main.java file.
 2. Use the W, A, S, and D keys to control the tiles. W will push the tiles up, A to the left, S downward, and D to the right.
 3. At the end of the game, whether you win or lose, there will be an option to play again.
 
