@@ -11,7 +11,7 @@ Directions:
 3. At the end of the game, whether you win or lose, there will be an option to play again.
 
 A couple notes:
-1. The "out" folder contains all of the .class files (as produced by IntelliJ).
+1. The "out" folder contains all of the .class files.
 2. Most of our code is written in the ActorWorld.java file under src/info/gridworld/Actor
 3. We hope you enjoy our game - we had fun making it.
 
