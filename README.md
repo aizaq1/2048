@@ -9,7 +9,7 @@ Directions:
 3. At the end of the game, whether you win or lose, there will be an option to play again.
 
 To compile: 
-javac Terrain.java
+javac Main.java
 
 A couple notes:
 1. The "out" folder contains all of the .class files.
