@@ -8,6 +8,9 @@ Directions:
 2. Use the W, A, S, and D keys to control the tiles. W will push the tiles up, A to the left, S downward, and D to the right.
 3. At the end of the game, whether you win or lose, there will be an option to play again.
 
+To compile: 
+javac Terrain.java
+
 A couple notes:
 1. The "out" folder contains all of the .class files.
 2. Most of our code is written in the ActorWorld.java file under src/info/gridworld/Actor
