@@ -11,8 +11,4 @@ Directions:
 To compile: 
 javac Main.java
 
-A couple notes:
-1. The "out" folder contains all of the .class files.
-2. Most of our code is written in the ActorWorld.java file under src/info/gridworld/Actor
-3. We hope you enjoy our game - we had fun making it.
 
