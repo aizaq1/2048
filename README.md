@@ -12,3 +12,5 @@ To compile:
 javac Main.java
 
 
+<img width="590" alt="Screen Shot 2022-05-23 at 5 50 28 PM" src="https://user-images.githubusercontent.com/87879715/169911345-6dfae2b1-dc64-48a0-ad8d-917d124877bc.png">
+<img width="602" alt="Screen Shot 2022-05-23 at 5 50 20 PM" src="https://user-images.githubusercontent.com/87879715/169911351-fce1f1f8-50f0-449f-949f-6ed62bf3ff67.png">
