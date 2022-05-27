@@ -9,7 +9,10 @@ Directions:
 3. At the end of the game, whether you win or lose, there will be an option to play again.
 
 To compile: 
-javac Main.java
+```
+  javac Main.java
+
+```
 
 
 <img width="590" alt="Screen Shot 2022-05-23 at 5 50 28 PM" src="https://user-images.githubusercontent.com/87879715/169911345-6dfae2b1-dc64-48a0-ad8d-917d124877bc.png">
